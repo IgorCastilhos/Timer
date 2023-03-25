@@ -1,8 +1,8 @@
 # React + TypeScript - Pomodoro Timer
 
-## A fully functional EXAMPLE project written in TypeScript and React showing how to create a Pomodoro Timer
+## A fully functional example project written in TypeScript and React showing how to create a Pomodoro Timer
 
-This project is an example that was built along with a React course showing how to create a Pomodoro Timer in React + TypeScript. Every part of this project is sample code which show how to do the following:
+This project is an example that was built along with a React course of Rocketseat, showing how to create a Pomodoro Timer in React + TypeScript. Every part of this project is sample code which show how to do the following:
 
 * Create a custom timer with React + TypeScript
 * Automatically create a history of counts already made
@@ -14,5 +14,15 @@ This project is an example that was built along with a React course showing how 
 
 The easiest way to see how it works is:
 
+```bash
 1. Clone this project
+git clone https://github.com/IgorCastilhos/Timer
+
 2. Install the dependencies using either npm install or yarn
+npm install
+
+yarn install
+
+3. Run the project
+npm run dev
+```
