@@ -26,3 +26,8 @@ yarn install
 3. Run the project
 npm run dev
 ```
+# Author
+
+Igor Paprocki de Castilhos
+
+https://www.linkedin.com/in/igorcastilhos/
