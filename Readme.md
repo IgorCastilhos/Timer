@@ -9,6 +9,7 @@ This project is an example that was built along with a React course of Rocketsea
 * How to use Styled Components with React + TypeScript
 
 ## Watch this video!
+https://user-images.githubusercontent.com/101683017/228853693-2f8bc9d6-d9b3-4945-92d9-8009326cbbaf.mp4
 
 ## How to install this example project
 
